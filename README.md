@@ -1,7 +1,7 @@
 # OMEGAPONG how to Start
 OMEGAPONG version 1 and advanced
 
-Step 1: Download Python
+Step 1: Download Python & Pygame (bei Fragen rufen sie gerne beim Tech-support an: +41 79 629 56 36)
 Step 2: Download zip 
 step 3: Zip entpacken
 Step 4: Open startpong1.cmd/ startpong_advanced.cmd
